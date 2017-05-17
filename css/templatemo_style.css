@@ -92,7 +92,7 @@ body
 	padding: 0;
 	position: relative;
 	zoom: 1;
-	background-color: #371604;
+	background-color:#95BAE2;/* #371604; TTIN  */
 	overflow: hidden;
 	margin: 0;
 }
@@ -392,7 +392,7 @@ a:hover, a:active
 footer
 {
 	border-top: 1px solid #404040;
-	background: #202020;
+	background: #202020; /* #95BAE2;    TTIN*/
 	color: #FFF;
 	padding: 80px 0 40px 0;
 }
